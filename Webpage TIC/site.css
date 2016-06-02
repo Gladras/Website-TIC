@@ -33,9 +33,13 @@ h1
     border-bottom: 2px groove #ffffff;
     color: #53605a;
     font-size: 32px;
+    text-align: center;
 }
 
-
+h2
+{
+    text-align: center;
+}
 
 #drapel
 {
@@ -77,7 +81,13 @@ ul#menu li a:hover {
 #turist
 {
     border: 1px solid black;
-    text-align: left;
+    border-radius: 0 20px 0 20px;
+}
+
+#turistimg
+{
+    text-align: center;
+    margin: 60px;
 }
 
 #sighi
@@ -87,29 +97,6 @@ ul#menu li a:hover {
 #sighiimg
 {
     border: 1px solid black;
+    text-align: center;
 }
 
-
-
-
-#thumbwrap {
-	margin:75px auto;
-    margin-bottom: 250px;
-	width:252px; height:252px;
-}
-
-.thumb img { 
-	border:1px solid #000;
-}
-.thumb:hover {
-	border:0; 
-	z-index:1;
-}
-.thumb span { 
-	position:absolute;
-	visibility:hidden;
-}
-.thumb:hover span { 
-	visibility:visible;
-	top:37px; left:37px; 
-}
