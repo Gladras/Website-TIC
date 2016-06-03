@@ -1,0 +1,110 @@
+body
+{
+    font-family: sans-serif;
+    font-size: 17px;
+    background-color: #737373;
+    color: #4d4d4d;
+    padding: 15px;
+}
+
+#main
+{
+    text-indent: 50px;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    background-color: #e7e7e4;
+    border-radius: 40px 40px 40px 40px;
+    border: 0.5px solid black;
+}
+
+footer
+{
+    color: transparent #a6a6a6;
+    padding-bottom: 0px;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 11px;
+}
+
+h1
+{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    border-bottom: 2px groove #ffffff;
+    color: #53605a;
+    font-size: 32px;
+    text-align: center;
+}
+
+h2
+{
+    text-align: center;
+}
+
+
+
+
+
+
+#drapel
+{
+    text-align: center;
+    float: middle;
+}
+
+
+
+
+ul#menu {
+    padding: 10px;
+    margin-bottom: 11px;
+    text-align: center;
+}
+
+ul#menu li {
+    display: inline;
+    margin-right: 3px;
+}
+
+ul#menu li a {
+    background-color: #e7e7e4;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #696969;
+    border-radius: 40px 40px 40px 40px;
+    border: 0.5px solid black;
+}
+
+ul#menu li a:hover {
+    color: black;
+    background-color: #a6a6a6;
+}
+
+
+
+
+#turist
+{
+    border: 1px solid black;
+    border-radius: 0 20px 0 20px;
+}
+
+#turistimg
+{
+    text-align: center;
+    margin: 60px;
+}
+
+#sighi
+{
+    text-align: center;
+}
+#sighiimg
+{
+    border: 1px solid black;
+    text-align: center;
+}
+
